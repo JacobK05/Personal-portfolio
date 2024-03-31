@@ -1,0 +1,27 @@
+/* style.css */
+.navbar-fullwidth {
+    width: 100%;
+    left: 0;
+    right: 0;
+    position: fixed;
+    background-color: lightslategray;
+  }
+
+  
+ .navbar-nav {
+    font-size: 20px;
+    color: white;
+ }
+
+ /* navBar.css */
+.navItems .nav-link {
+    color: white; /* Change the color of the nav links to red */    
+  }
+  
+  /* Remove default Bootstrap Navbar styling */
+  .navbar {
+    border: none; /* Remove any border */
+    box-shadow: none; /* Remove any box shadow */
+    background-color: lightslategray;
+  }
+  
