@@ -1,27 +1,30 @@
 /* style.css */
-.navbar-fullwidth {
+.navbar-fullwidth   {
     width: 100%;
     left: 0;
     right: 0;
     position: fixed;
-    background-color: lightslategray;
   }
 
-  
- .navbar-nav {
-    font-size: 20px;
-    color: white;
- }
+  /* Update navBar.css to include styles for Navbar branding */
+.navbar-brand {
+    color: #5d5c61 !important;
+   font-size: 30px !important;
+  }  
 
  /* navBar.css */
 .navItems .nav-link {
-    color: white; /* Change the color of the nav links to red */    
+    color: #5d5c61; /* Change the color of the nav links to red */  
+    font-size: 20px;  
+    padding: 20px;
+    margin: 0 40px
   }
+
   
   /* Remove default Bootstrap Navbar styling */
   .navbar {
     border: none; /* Remove any border */
     box-shadow: none; /* Remove any box shadow */
-    background-color: lightslategray;
+    background-color: #7395ae;
   }
   
