@@ -10,7 +10,7 @@ import About from './pages/about.jsx';
 import Contact from './pages/Contact.jsx';
 import Projects from './pages/projects.jsx';
 import Resume from './pages/resume.jsx';
-import Home from './pages/home.jsx'
+
 
 const router = createBrowserRouter ([
   {
@@ -20,12 +20,9 @@ const router = createBrowserRouter ([
     children: [
         {
             index: true,
-            element: <Home />,
-          },
-          {
-            path: '/About',
             element: <About />,
           },
+         
           {
             path: '/projects',
             element: <Projects />,

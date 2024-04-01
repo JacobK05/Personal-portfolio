@@ -8,12 +8,12 @@ function ColorSchemesExample() {
     <>
       <Navbar className="navbar-fullwidth">
         <Container>
-          <Navbar.Brand href="#home">Jacob Kaufenberg</Navbar.Brand> 
+          <Navbar.Brand href="/">Jacob Kaufenberg</Navbar.Brand> 
           <Nav className="navItems">
-            <Nav.Link href="#About-me">About Me</Nav.Link>
-            <Nav.Link href="#Contact-me">Contact Me</Nav.Link>
-            <Nav.Link href="#resume">Resume</Nav.Link>
-            <Nav.Link href="#projects">Projects</Nav.Link>
+            <Nav.Link href="/">About Me</Nav.Link>
+            <Nav.Link href="/Contact">Contact Me</Nav.Link>
+            <Nav.Link href="/Resume">Resume</Nav.Link>
+            <Nav.Link href="/projects">Projects</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
