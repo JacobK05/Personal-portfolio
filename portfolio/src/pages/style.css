@@ -1,0 +1,42 @@
+.about-h1 {
+    color: #5d5c61;
+    padding: 10px;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+
+.about-p {
+    color: #5d5c61;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 35px;
+    padding: 50px;
+}
+
+.submitbtn{
+    margin: 15px;
+
+}
+
+.resumeH1{
+    color: #5d5c61;
+    padding: 20px;
+    font-size: 30px
+}
+
+.frontH1 {
+    color: #5d5c61;
+    padding: 20px;
+    font-size: 20px;
+}
+ 
+.skill-list{
+ color: #5d5c61 ;
+ padding: 20px;
+}
+.backH1 {
+    color: #5d5c61;
+    padding: 20px;
+    font-size: 20px;
+}
+ 

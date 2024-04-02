@@ -4,6 +4,7 @@
     left: 0;
     right: 0;
     position: fixed;
+    border-radius: 5px;
   }
 
   /* Update navBar.css to include styles for Navbar branding */
