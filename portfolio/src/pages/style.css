@@ -14,7 +14,7 @@
 }
 
 .submitbtn{
-    margin: 15px;
+    margin-left: 35px;
 
 }
 
@@ -40,3 +40,24 @@
     font-size: 20px;
 }
  
+.contactBox {
+   margin: 35px;
+}
+
+
+.text-block{
+    color: #5d5c61;
+    text-align: center;
+}
+
+.contactH3 {
+    color:#5d5c61;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.images {
+ width: 300px;
+ height: 200px;
+ padding: 10px;
+}

@@ -3,7 +3,7 @@ import project from "../projects";
 export default function PortfolioPage() {
   return (
     <div class="container">
-      <h3>Portfolio</h3>
+      <h3 class="contactH3">Portfolio</h3>
 
       <div class="row">
         {project.map((props) => (

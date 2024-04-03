@@ -6,6 +6,7 @@ import Button from 'react-bootstrap/Button';
 function FormFloatingBasicExample() {
   return (
     <>
+    <div className='contactBox'>
       <FloatingLabel
         controlId="floatingInput"
         label="Name"
@@ -30,6 +31,7 @@ function FormFloatingBasicExample() {
           style={{ height: '100px' }}
         />
       </FloatingLabel>
+      </div>
     <Button className="submitbtn" variant="dark"> Submit </Button>
       
        </>
